@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Bahaa
 - 👀 I’m interested in Embedded Systems and AI
-- 🌱 I’m currently a mechatronics Engineering Student at Ain Shams University
+- 🌱 I’m currently a Mechatronics Engineering Student at Ain Shams University
 - 📫 Here is my Linkedin https://www.linkedin.com/in/andrewbahaa/
 
 <!---
